@@ -1,0 +1,9 @@
+cffi~=1.15.1
+Pillow~=9.2.0
+pip~=22.2.1
+wheel~=0.37.1
+cryptography~=37.0.4
+Wand~=0.6.8
+pycparser~=2.21
+setuptools~=63.2.0
+pdfplumber~=0.7.4
